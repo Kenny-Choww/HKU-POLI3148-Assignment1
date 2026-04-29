@@ -1,0 +1,2 @@
+threshold,accuracy,precision,recall,f1,auc,true_positive,true_negative,false_positive,false_negative,train_rows,test_rows,test_start,test_end,positive_rate_train,positive_rate_test
+0.6400000000000001,0.8631578947368421,0.7241379310344828,0.8076923076923077,0.7636363636363636,0.9297658862876255,21,61,8,5,361,95,2024-11-01,2025-03-01,0.21052631578947367,0.2736842105263158

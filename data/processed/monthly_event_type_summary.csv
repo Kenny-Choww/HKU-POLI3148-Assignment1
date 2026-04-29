@@ -1,0 +1,139 @@
+month,year_month,event_type,events,fatalities
+2023-04-01,2023-04,Battles,249,964
+2023-04-01,2023-04,Explosions/Remote violence,37,104
+2023-04-01,2023-04,Protests,16,1
+2023-04-01,2023-04,Riots,5,1
+2023-04-01,2023-04,Strategic developments,96,0
+2023-04-01,2023-04,Violence against civilians,51,55
+2023-05-01,2023-05,Battles,285,1411
+2023-05-01,2023-05,Explosions/Remote violence,26,126
+2023-05-01,2023-05,Protests,23,0
+2023-05-01,2023-05,Riots,2,0
+2023-05-01,2023-05,Strategic developments,149,0
+2023-05-01,2023-05,Violence against civilians,131,244
+2023-06-01,2023-06,Battles,267,1869
+2023-06-01,2023-06,Explosions/Remote violence,60,190
+2023-06-01,2023-06,Protests,18,3
+2023-06-01,2023-06,Riots,1,3
+2023-06-01,2023-06,Strategic developments,102,0
+2023-06-01,2023-06,Violence against civilians,111,511
+2023-07-01,2023-07,Battles,365,1325
+2023-07-01,2023-07,Explosions/Remote violence,39,200
+2023-07-01,2023-07,Protests,21,1
+2023-07-01,2023-07,Strategic developments,110,0
+2023-07-01,2023-07,Violence against civilians,135,146
+2023-08-01,2023-08,Battles,464,2463
+2023-08-01,2023-08,Explosions/Remote violence,107,175
+2023-08-01,2023-08,Protests,9,0
+2023-08-01,2023-08,Strategic developments,166,0
+2023-08-01,2023-08,Violence against civilians,106,148
+2023-09-01,2023-09,Battles,252,1263
+2023-09-01,2023-09,Explosions/Remote violence,208,451
+2023-09-01,2023-09,Protests,10,0
+2023-09-01,2023-09,Strategic developments,99,0
+2023-09-01,2023-09,Violence against civilians,108,108
+2023-10-01,2023-10,Battles,235,1019
+2023-10-01,2023-10,Explosions/Remote violence,244,441
+2023-10-01,2023-10,Protests,9,0
+2023-10-01,2023-10,Strategic developments,109,0
+2023-10-01,2023-10,Violence against civilians,75,68
+2023-11-01,2023-11,Battles,196,1780
+2023-11-01,2023-11,Explosions/Remote violence,189,225
+2023-11-01,2023-11,Protests,13,0
+2023-11-01,2023-11,Riots,2,0
+2023-11-01,2023-11,Strategic developments,115,0
+2023-11-01,2023-11,Violence against civilians,89,586
+2023-12-01,2023-12,Battles,210,294
+2023-12-01,2023-12,Explosions/Remote violence,256,240
+2023-12-01,2023-12,Protests,23,0
+2023-12-01,2023-12,Strategic developments,181,0
+2023-12-01,2023-12,Violence against civilians,111,237
+2024-01-01,2024-01,Battles,231,599
+2024-01-01,2024-01,Explosions/Remote violence,316,257
+2024-01-01,2024-01,Protests,11,0
+2024-01-01,2024-01,Strategic developments,148,0
+2024-01-01,2024-01,Violence against civilians,85,124
+2024-02-01,2024-02,Battles,201,500
+2024-02-01,2024-02,Explosions/Remote violence,117,64
+2024-02-01,2024-02,Protests,5,0
+2024-02-01,2024-02,Strategic developments,128,0
+2024-02-01,2024-02,Violence against civilians,186,428
+2024-03-01,2024-03,Battles,154,515
+2024-03-01,2024-03,Explosions/Remote violence,117,81
+2024-03-01,2024-03,Protests,6,0
+2024-03-01,2024-03,Riots,2,4
+2024-03-01,2024-03,Strategic developments,127,0
+2024-03-01,2024-03,Violence against civilians,126,253
+2024-04-01,2024-04,Battles,168,484
+2024-04-01,2024-04,Explosions/Remote violence,125,156
+2024-04-01,2024-04,Protests,6,0
+2024-04-01,2024-04,Strategic developments,122,0
+2024-04-01,2024-04,Violence against civilians,180,275
+2024-05-01,2024-05,Battles,124,601
+2024-05-01,2024-05,Explosions/Remote violence,130,184
+2024-05-01,2024-05,Protests,8,0
+2024-05-01,2024-05,Strategic developments,84,0
+2024-05-01,2024-05,Violence against civilians,155,228
+2024-06-01,2024-06,Battles,143,955
+2024-06-01,2024-06,Explosions/Remote violence,152,375
+2024-06-01,2024-06,Protests,4,0
+2024-06-01,2024-06,Riots,1,2
+2024-06-01,2024-06,Strategic developments,107,0
+2024-06-01,2024-06,Violence against civilians,96,253
+2024-07-01,2024-07,Battles,165,629
+2024-07-01,2024-07,Explosions/Remote violence,77,122
+2024-07-01,2024-07,Protests,1,0
+2024-07-01,2024-07,Strategic developments,132,1
+2024-07-01,2024-07,Violence against civilians,113,256
+2024-08-01,2024-08,Battles,105,501
+2024-08-01,2024-08,Explosions/Remote violence,245,363
+2024-08-01,2024-08,Protests,11,0
+2024-08-01,2024-08,Riots,1,0
+2024-08-01,2024-08,Strategic developments,117,0
+2024-08-01,2024-08,Violence against civilians,141,145
+2024-09-01,2024-09,Battles,186,1237
+2024-09-01,2024-09,Explosions/Remote violence,260,374
+2024-09-01,2024-09,Protests,5,0
+2024-09-01,2024-09,Riots,1,0
+2024-09-01,2024-09,Strategic developments,124,1
+2024-09-01,2024-09,Violence against civilians,134,228
+2024-10-01,2024-10,Battles,204,2250
+2024-10-01,2024-10,Explosions/Remote violence,211,500
+2024-10-01,2024-10,Protests,4,0
+2024-10-01,2024-10,Riots,2,0
+2024-10-01,2024-10,Strategic developments,183,1
+2024-10-01,2024-10,Violence against civilians,293,937
+2024-11-01,2024-11,Battles,115,749
+2024-11-01,2024-11,Explosions/Remote violence,188,513
+2024-11-01,2024-11,Protests,2,0
+2024-11-01,2024-11,Riots,1,0
+2024-11-01,2024-11,Strategic developments,196,9
+2024-11-01,2024-11,Violence against civilians,197,569
+2024-12-01,2024-12,Battles,166,1537
+2024-12-01,2024-12,Explosions/Remote violence,200,763
+2024-12-01,2024-12,Protests,9,1
+2024-12-01,2024-12,Riots,1,0
+2024-12-01,2024-12,Strategic developments,177,0
+2024-12-01,2024-12,Violence against civilians,152,275
+2025-01-01,2025-01,Battles,162,1427
+2025-01-01,2025-01,Explosions/Remote violence,181,518
+2025-01-01,2025-01,Protests,8,0
+2025-01-01,2025-01,Riots,1,0
+2025-01-01,2025-01,Strategic developments,233,0
+2025-01-01,2025-01,Violence against civilians,197,475
+2025-02-01,2025-02,Battles,219,895
+2025-02-01,2025-02,Explosions/Remote violence,118,440
+2025-02-01,2025-02,Protests,17,0
+2025-02-01,2025-02,Strategic developments,172,0
+2025-02-01,2025-02,Violence against civilians,193,534
+2025-03-01,2025-03,Battles,146,1286
+2025-03-01,2025-03,Explosions/Remote violence,152,468
+2025-03-01,2025-03,Protests,1,0
+2025-03-01,2025-03,Strategic developments,170,0
+2025-03-01,2025-03,Violence against civilians,139,281
+2025-04-01,2025-04,Battles,100,1201
+2025-04-01,2025-04,Explosions/Remote violence,75,394
+2025-04-01,2025-04,Protests,8,0
+2025-04-01,2025-04,Riots,1,1
+2025-04-01,2025-04,Strategic developments,72,0
+2025-04-01,2025-04,Violence against civilians,70,385

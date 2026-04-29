@@ -1,0 +1,174 @@
+macro_region,year_month,events,fatalities,civilian_targeting_events
+Central/Nile,2023-04,27,19,6
+Darfur,2023-04,122,637,17
+Eastern Sudan,2023-04,16,2,4
+Khartoum,2023-04,247,330,43
+Kordofan,2023-04,25,92,1
+Northern/Nile,2023-04,17,45,0
+Abyei,2023-05,12,36,6
+Central/Nile,2023-05,19,29,0
+Darfur,2023-05,141,1311,56
+Eastern Sudan,2023-05,11,0,0
+Khartoum,2023-05,402,321,83
+Kordofan,2023-05,27,84,3
+Northern/Nile,2023-05,4,0,0
+Abyei,2023-06,6,21,1
+Central/Nile,2023-06,10,2,1
+Darfur,2023-06,160,1673,65
+Eastern Sudan,2023-06,11,0,0
+Khartoum,2023-06,310,543,73
+Kordofan,2023-06,58,337,9
+Northern/Nile,2023-06,4,0,0
+Abyei,2023-07,2,0,2
+Central/Nile,2023-07,22,102,5
+Darfur,2023-07,130,533,39
+Eastern Sudan,2023-07,10,1,0
+Khartoum,2023-07,410,881,84
+Kordofan,2023-07,82,153,20
+Northern/Nile,2023-07,14,2,3
+Abyei,2023-08,7,11,1
+Central/Nile,2023-08,49,36,11
+Darfur,2023-08,147,789,24
+Eastern Sudan,2023-08,18,1,1
+Khartoum,2023-08,545,1666,85
+Kordofan,2023-08,75,283,15
+Northern/Nile,2023-08,11,0,2
+Abyei,2023-09,7,32,5
+Central/Nile,2023-09,21,19,4
+Darfur,2023-09,107,397,36
+Eastern Sudan,2023-09,9,0,0
+Khartoum,2023-09,477,1276,101
+Kordofan,2023-09,51,98,18
+Northern/Nile,2023-09,5,0,1
+Abyei,2023-10,9,17,1
+Central/Nile,2023-10,28,1,4
+Darfur,2023-10,132,512,39
+Eastern Sudan,2023-10,10,0,1
+Khartoum,2023-10,431,836,102
+Kordofan,2023-10,55,161,13
+Northern/Nile,2023-10,7,1,0
+Abyei,2023-11,11,61,9
+Central/Nile,2023-11,14,11,2
+Darfur,2023-11,128,1849,35
+Eastern Sudan,2023-11,25,1,4
+Khartoum,2023-11,337,463,72
+Kordofan,2023-11,82,206,13
+Northern/Nile,2023-11,7,0,0
+Abyei,2023-12,18,42,3
+Central/Nile,2023-12,204,224,67
+Darfur,2023-12,65,84,19
+Eastern Sudan,2023-12,24,0,1
+Khartoum,2023-12,386,280,44
+Kordofan,2023-12,61,125,19
+Northern/Nile,2023-12,23,16,0
+Abyei,2024-01,22,95,8
+Central/Nile,2024-01,130,139,51
+Darfur,2024-01,37,62,5
+Eastern Sudan,2024-01,27,8,2
+Khartoum,2024-01,482,383,46
+Kordofan,2024-01,77,264,15
+Northern/Nile,2024-01,16,29,4
+Abyei,2024-02,19,54,13
+Central/Nile,2024-02,217,263,118
+Darfur,2024-02,58,117,14
+Eastern Sudan,2024-02,10,0,1
+Khartoum,2024-02,260,293,24
+Kordofan,2024-02,70,265,27
+Northern/Nile,2024-02,3,0,2
+Abyei,2024-03,4,2,1
+Central/Nile,2024-03,173,224,90
+Darfur,2024-03,64,89,17
+Eastern Sudan,2024-03,18,13,1
+Khartoum,2024-03,193,290,22
+Kordofan,2024-03,76,235,23
+Northern/Nile,2024-03,4,0,0
+Abyei,2024-04,10,9,5
+Central/Nile,2024-04,184,188,79
+Darfur,2024-04,174,305,65
+Eastern Sudan,2024-04,23,10,6
+Khartoum,2024-04,122,77,20
+Kordofan,2024-04,73,314,27
+Northern/Nile,2024-04,15,12,0
+Abyei,2024-05,2,9,0
+Central/Nile,2024-05,131,197,72
+Darfur,2024-05,109,406,35
+Eastern Sudan,2024-05,21,6,0
+Khartoum,2024-05,151,192,40
+Kordofan,2024-05,75,198,33
+Northern/Nile,2024-05,12,5,2
+Abyei,2024-06,2,7,2
+Central/Nile,2024-06,150,527,53
+Darfur,2024-06,113,769,35
+Eastern Sudan,2024-06,15,1,1
+Khartoum,2024-06,168,212,36
+Kordofan,2024-06,40,65,12
+Northern/Nile,2024-06,15,4,2
+Abyei,2024-07,1,1,1
+Central/Nile,2024-07,200,328,61
+Darfur,2024-07,107,231,23
+Eastern Sudan,2024-07,15,9,2
+Khartoum,2024-07,113,250,22
+Kordofan,2024-07,40,183,15
+Northern/Nile,2024-07,12,6,3
+Abyei,2024-08,2,1,1
+Central/Nile,2024-08,174,308,80
+Darfur,2024-08,152,432,43
+Eastern Sudan,2024-08,12,2,1
+Khartoum,2024-08,222,168,65
+Kordofan,2024-08,36,92,12
+Northern/Nile,2024-08,22,6,8
+Central/Nile,2024-09,138,315,69
+Darfur,2024-09,154,925,44
+Eastern Sudan,2024-09,24,0,0
+Khartoum,2024-09,335,516,67
+Kordofan,2024-09,41,61,9
+Northern/Nile,2024-09,18,23,2
+Abyei,2024-10,4,1,2
+Central/Nile,2024-10,276,1976,149
+Darfur,2024-10,278,1348,135
+Eastern Sudan,2024-10,17,0,0
+Khartoum,2024-10,257,190,38
+Kordofan,2024-10,42,168,17
+Northern/Nile,2024-10,23,5,4
+Abyei,2024-11,6,7,4
+Central/Nile,2024-11,255,569,123
+Darfur,2024-11,207,1031,91
+Eastern Sudan,2024-11,24,34,3
+Khartoum,2024-11,161,164,47
+Kordofan,2024-11,23,35,5
+Northern/Nile,2024-11,23,0,1
+Abyei,2024-12,9,19,1
+Central/Nile,2024-12,237,652,90
+Darfur,2024-12,226,1393,89
+Eastern Sudan,2024-12,17,0,2
+Khartoum,2024-12,151,382,44
+Kordofan,2024-12,41,114,11
+Northern/Nile,2024-12,24,16,2
+Abyei,2025-01,5,5,3
+Central/Nile,2025-01,270,485,121
+Darfur,2025-01,228,1572,97
+Eastern Sudan,2025-01,23,0,1
+Khartoum,2025-01,201,338,44
+Kordofan,2025-01,29,20,4
+Northern/Nile,2025-01,26,0,2
+Abyei,2025-02,2,5,1
+Central/Nile,2025-02,196,355,74
+Darfur,2025-02,167,880,61
+Eastern Sudan,2025-02,24,1,4
+Khartoum,2025-02,192,287,59
+Kordofan,2025-02,123,330,27
+Northern/Nile,2025-02,15,11,1
+Abyei,2025-03,3,11,0
+Central/Nile,2025-03,89,103,29
+Darfur,2025-03,184,1019,83
+Eastern Sudan,2025-03,14,0,0
+Khartoum,2025-03,212,580,53
+Kordofan,2025-03,86,322,34
+Northern/Nile,2025-03,20,0,0
+Abyei,2025-04,5,1,2
+Central/Nile,2025-04,21,106,8
+Darfur,2025-04,118,1123,42
+Eastern Sudan,2025-04,8,3,2
+Khartoum,2025-04,73,262,27
+Kordofan,2025-04,85,474,18
+Northern/Nile,2025-04,16,12,4

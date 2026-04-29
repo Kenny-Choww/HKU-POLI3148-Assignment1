@@ -1,0 +1,31 @@
+actor,weighted_degree,actor_short,actor_type,node_size,x,y
+Rapid Support Forces,11007,RSF,RSF,45.0,0.9869369555119029,-0.7851322768311234
+Military Forces of Sudan (2019-),7759,SAF,SAF,39.38572682815969,1.1631305302084425,-0.3243673361710373
+Civilians (Sudan),5489,Civilians ,Civilians,34.716113250304375,0.013678229646851576,-0.6888479529135486
+Unidentified Armed Group (Sudan),405,Unidentified Armed Group ,Other,16.713686731888295,0.632936819156239,-0.09965463729525932
+Darfur Communal Militia (Sudan),351,Darfur Communal Militia ,Armed group,16.25010220685032,0.7770166656617109,-1.2856930741651817
+SPLM-N-Abdelaziz: Sudan People's Liberation Movement (North) (Abdelaziz al-Hilu faction),152,SPLM-N-Abdelaziz: SPLM (North) (Abdelaziz...,Armed group,14.112968231938202,0.7398873051810476,-0.461474090450994
+Darfur Joint Forces/JSAMF: Joint Force of Armed Struggle Movement,90,Darfur Joint Forces/JSAMF: Joint Force of...,Armed group,13.16486227658691,0.49769030218173543,-1.0788880478269864
+Darfur Arab Militia (Sudan),81,Darfur Arab Militia ,Armed group,13.002451982428127,0.9371916211445156,0.5991465931442754
+Military Forces of Sudan (2019-) Military Intelligence Service,79,SAF Military Intelligence Service,SAF,12.965152994275089,-0.42971743730937473,0.35550349101365386
+Government of Sudan (2019-),58,Government of Sudan (2019-),State-aligned,12.540665895491546,-0.8555119867989216,0.031387620064985154
+Salamat Ethnic Militia (Sudan),52,Salamat Ethnic Militia ,Armed group,12.40566546105847,-1.7,1.7
+Twic Clan Militia (South Sudan),48,Twic Clan Militia (South Sudan),Armed group,12.31128861371174,-1.1577473283879298,-1.4743343670626765
+Military Forces of Sudan (2019-2023) Rapid Support Forces,34,Military Forces of Sudan (2019-2023) RSF,RSF,11.945239230680146,1.7,0.47720460634317896
+Sudan Shield Forces,34,Sudan Shield Forces,Other,11.945239230680146,0.2332402984240125,-0.22361350114179326
+Police Forces of Sudan (2019-),28,Police Forces of Sudan (2019-),State-aligned,11.765275837537265,0.45502310293743076,-1.5809798252279599
+Unidentified Communal Militia (Sudan),28,Unidentified Communal Militia ,Armed group,11.765275837537265,-1.1185079498918655,-0.3461458364753826
+Habbaniyah Ethnic Militia (Sudan),27,Habbaniyah Ethnic Militia ,Armed group,11.733466460283804,-1.7,1.6074678814330208
+Beni Halba Ethnic Militia (Sudan),25,Beni Halba Ethnic Militia ,Armed group,11.668028879126737,-1.7,1.3858605675333064
+Masalit Ethnic Militia (Sudan),20,Masalit Ethnic Militia ,Armed group,11.491930384864066,1.7,-0.07351741861123554
+Military Forces of Sudan (2019-) Abu Tira,17,SAF Abu Tira,SAF,11.375491851044034,1.454725309039676,-1.7
+Ngok Clan Militia (Sudan),15,Ngok Clan Militia ,Armed group,11.292049613970175,-1.7,-1.7
+Shugara Forces,12,Shugara Forces,Other,11.15564430685587,1.7,-1.7
+Al Baraa Ibn Malik Brigade,12,Al Baraa Ibn Malik Brigade,Other,11.15564430685587,-1.217362076655925,-0.7830053359848183
+SLM/A-Nur: Sudan Liberation Movement/Army (Abdul Wahid al-Nur Faction),12,SLM/A-Nur: Sudan Liberation Movement/Army...,Armed group,11.15564430685587,1.7,-1.133590769426038
+Police Forces of Sudan (2019-) General Intelligence Service,12,Police Forces of Sudan (2019-) General In...,State-aligned,11.15564430685587,-0.828719025881077,-1.1129353565730304
+Kordofan Arab Militia (Sudan),11,Kordofan Arab Militia ,Armed group,11.106445186308093,-0.6374966705975098,-1.7
+SLM/A-Minnawi: Sudan Liberation Movement/Army (Minnawi Faction),9,SLM/A-Minnawi: Sudan Liberation Movement/...,Armed group,11.000817327476042,-0.21613631508924822,-1.7
+Zaghawa Ethnic Militia (Sudan),9,Zaghawa Ethnic Militia ,Armed group,11.000817327476042,1.3604127992613941,1.7
+North Kordofan Communal Militia (Sudan),8,North Kordofan Communal Militia ,Armed group,10.94357962531641,1.7,-0.7913574171767884
+Erenga Ethnic Militia (Sudan),8,Erenga Ethnic Militia ,Armed group,10.94357962531641,1.7,0.15259270339800074
