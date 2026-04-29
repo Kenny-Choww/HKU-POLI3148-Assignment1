@@ -47,7 +47,6 @@ asm1/
 |-- README.md
 |-- note_on_ai_use.md
 |-- requirements.txt
-|-- POLI3148_Assignment1_Instruction.pdf
 |-- code/
 |   |-- 01_data_loading_cleaning.ipynb
 |   |-- 02_exploratory_spatial_actor_analysis.ipynb
