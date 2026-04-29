@@ -2,8 +2,8 @@
 
 **Course:** POLI3148 Data Science in Politics and Public Administration  
 **Assignment:** Data-Driven Analysis of Armed Conflict Using ACLED  
-**Author:**:Kenny Chow
-**Report:**:[docs/index.html](docs/index.html)
+**Author:** Kenny Chow
+**Report:** [docs/index.html](docs/index.html)
 
 ## Project Overview
 
