@@ -3,7 +3,8 @@
 **Course:** POLI3148 Data Science in Politics and Public Administration  
 **Assignment:** Data-Driven Analysis of Armed Conflict Using ACLED  
 **Author:** Kenny Chow
-
+**Github Repo:** https://github.com/Kenny-Choww/HKU-POLI3148-Assignment1
+**Online Report URL:** https://kenny-choww.github.io/HKU-POLI3148-Assignment1/
 **Report:** [docs/index.html](docs/index.html)
 
 ## Project Overview
