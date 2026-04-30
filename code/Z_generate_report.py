@@ -1418,14 +1418,14 @@ def build_report_html(events: pd.DataFrame, panel: pd.DataFrame, summaries: dict
     <div>
       <p class="eyebrow">POLI3148 Assignment 1 · ACLED event data</p>
       <h1>From Capital War to Fragmented Civilian Insecurity</h1>
-      <p>Mapping and predicting violence against civilians in Sudan's civil war using ACLED records from {date_min} through {date_max}.</p>
+      <p>Mapping and identifying (by predictive modelling) violence against civilians in Sudan's civil war using ACLED records from {date_min} through {date_max}.</p>
     </div>
   </header>
   <main>
     {kpi_cards}
     <section class="narrative">
       <h2>Research Question</h2>
-      <p>This report asks: <strong>How has Sudan's civil war shifted geographically and politically since April 2023, and can ACLED event patterns help predict where violence against civilians is most likely to intensify?</strong> The analysis treats ACLED as an event-level record of reported political disorder rather than a complete census of harm. That distinction matters: the dataset is excellent for comparing reported patterns across time, place, event type, and actors, but fatalities and civilian harm are still shaped by source availability, access, and coding rules.</p>
+      <p>This report asks: <strong>How has Sudan's civil war shifted geographically and politically since April 2023, and can ACLED event patterns help identify where violence against civilians is most likely to intensify?</strong> The analysis treats ACLED as an event-level record of reported political disorder rather than a complete census of harm. That distinction matters: the dataset is excellent for comparing reported patterns across time, place, event type, and actors, but fatalities and civilian harm are still shaped by source availability, access, and coding rules.</p>
     </section>
 
     <section class="narrative">
